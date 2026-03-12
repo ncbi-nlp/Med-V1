@@ -188,9 +188,10 @@ This tutorial shows the results of research conducted in the Division of Intramu
 ## Citation
 If you find this repo helpful, please cite Med-V1 by:
 ```bibtex
-@article{jin2026medv1,
+@article{jin2026med,
   title={Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution},
-  author={Jin, Qiao and Fang, Yin and He, Lauren and Yang, Yifan and Xiong, Guangzhi and Wang, Zhizheng and Wan, Nicholas and Chan, Joey and Comeau, Donald C. and Leaman, Robert and Floudas, Charalampos S. and Zhang, Aidong and Chiang, Michael F. and Peng, Yifan and Lu, Zhizong},
+  author={Jin, Qiao and Fang, Yin and He, Lauren and Yang, Yifan and Xiong, Guangzhi and Wang, Zhizheng and Wan, Nicholas and Chan, Joey and Comeau, Donald C and Leaman, Robert and others},
+  journal={arXiv preprint arXiv:2603.05308},
   year={2026}
 }
 ```
